@@ -4,11 +4,11 @@ import time
 
 wb.open('https://meet.google.com')
 
-time.sleep(5)
+time.sleep(7)
 
 pag.typewrite(['enter'])
 
-time.sleep(3)
+time.sleep(5)
 pag.hotkey('ctrl','d')
 time.sleep(1)
 pag.hotkey('ctrl','e')
