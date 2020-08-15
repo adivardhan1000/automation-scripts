@@ -4,7 +4,7 @@ import time
 
 wb.open('https://meet.google.com')
 
-time.sleep(7)
+time.sleep(10)
 
 pag.typewrite(['enter'])
 
