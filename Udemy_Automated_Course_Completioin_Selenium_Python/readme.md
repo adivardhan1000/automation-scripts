@@ -1,1 +1,0 @@
-# Enter url, email, password in the main.py and run it using the Firefox geckoDrive. To run with other browsers change the driver accordingly
